@@ -6,5 +6,4 @@ function showOdds(start, end) {
     }
 } 
 
-
 showOdds(0, 32)
